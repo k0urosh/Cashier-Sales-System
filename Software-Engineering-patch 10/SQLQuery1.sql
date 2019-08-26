@@ -1,0 +1,1 @@
+﻿SELECT USERNAME FROM SystemAccounts
